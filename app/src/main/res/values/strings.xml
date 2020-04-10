@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FireGallery</string>
+    <string name="button_choose">Choose Image</string>
+    <string name="button_upload">Upload Image</string>
+    <string name="hint_file_name">Enter File Name</string>
+    <string name="tv_show_uploads">Show Uploads</string>
+    <string name="tv_image_name">Name</string>
+
+
+</resources>
